@@ -12,3 +12,10 @@ i18n
 ```
 npm i i18next
 ```
+
+With React
+
+```
+npm i i18next react-i18next
+```
+
