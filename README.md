@@ -1,5 +1,6 @@
 # i18n Sample
 
+[i18n Documentation](https://react.i18next.com/getting-started)
 
 Language detector ([detectors](https://www.i18next.com/overview/plugins-and-utils#language-detector)). Example with browser
 
